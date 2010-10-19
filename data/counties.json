@@ -1,0 +1,103 @@
+{ "docs": [
+  {
+    "county_id": "1",
+    "name": "Vas megye",
+    "type": "county"
+  },
+  {
+    "county_id": "2",
+    "name": "Budapest",
+    "type": "county"
+  },
+  {
+    "county_id": "6",
+    "name": "Bács-Kiskun megye",
+    "type": "county"
+  },
+  {
+    "county_id": "7",
+    "name": "Baranya megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "8",
+    "name": "Békés megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "9",
+    "name": "Borsod-Abaúj-Zemplén megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "10",
+    "name": "Csongrád megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "11",
+    "name": "Fejér megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "12",
+    "name": "Győr-Moson-Sopron megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "13",
+    "name": "Hajdú-Bihar megye",
+    "type": "county"
+  },
+  {
+    "county_id": "14",
+    "name": " Heves megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "15",
+    "name": "Jász-Nagykun-Szolnok megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "16",
+    "name": "Komárom-Esztergom megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "17",
+    "name": "Nógrád megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "18",
+    "name": "Pest megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "19",
+    "name": "Somogy megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "20",
+    "name": "Szabolcs-Szatmár-Bereg megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "21",
+    "name": "Tolna megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "23",
+    "name": "Veszprém megye ",
+    "type": "county"
+  },
+  {
+    "county_id": "24",
+    "name": "Zala megye ",
+    "type": "county"
+  }
+]
+}

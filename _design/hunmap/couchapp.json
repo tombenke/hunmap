@@ -1,0 +1,12 @@
+{
+    "name": "Hungarian Cities and Counties",
+    "description": "hunmap",
+     "env" : {
+        "default" : {
+          "db" : "http://admin:admin@localhost:5984/hunmap"
+        },
+        "public" : {
+          "db" : "http://tombenke.couchone.com/hunmap"
+        }
+    }
+}
